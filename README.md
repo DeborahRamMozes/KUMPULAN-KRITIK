@@ -14,6 +14,8 @@ Repositori ini tidak menawarkan solusi praktis atau panduan institusional. Fungs
   Kritik dwibahasa atas machine stewardship, hierarki sosial, pemodjaan technical skill, dan intelligence palsu.
 - [Pedagogi yang Gagal Berpikir](PEDAGOGI%20YANG%20GAGAL%20BERPIKIR.md)  
   Kritik terhadap kegagalan pedagogi sebagai kerja berpikir.
+- [Pikiran yang Dikurasi](essays/2026-10-02-pikiran-yang-dikurasi.md)  
+  Esai kritik seni dwibahasa tentang status “draft”, kuasa editorial, kurasi pikiran, THE ITCHSM, keberanian melihat, kolektivitas, serta keterbukaan dan pintu dalam ekosistem seni.
 
 **EN**
 
@@ -31,3 +33,5 @@ This repository does not provide practical solutions or institutional guidelines
   A bilingual critique of machine stewardship, social hierarchy, technical-skill worship, and false intelligence.
 - [The Pedagogy That Failed to Think](PEDAGOGI%20YANG%20GAGAL%20BERPIKIR.md)  
   A critique of pedagogy's failure to function as serious thought.
+- [Curated Thought](essays/2026-10-02-pikiran-yang-dikurasi-en.md)  
+  A full English edition examining the “draft” label, editorial authority, curation of thought, THE ITCHSM, Sudjojono's courage to look, collectivity, and the politics of doors in the art ecosystem.
